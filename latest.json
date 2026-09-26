@@ -1,6 +1,7 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "format": "installer",
-  "url": "https://github.com/bezootje-voxora/Voxora/releases/download/v0.1.4/Voxora-Setup-0.1.4.exe",
-  "sha256": "c5b6e61fba4199b93c1156c17df4ac5dfdf9fdeafbc908ce4bbdb825576575eb"
+  "url": "https://github.com/bezootje-voxora/Voxora/releases/download/v0.1.5/Voxora-Setup-0.1.5.exe",
+  "sha256": "a54d63f0222e2d59c6c2bfff8cdd078914a34f99a4c850e5125cb62d6205767e"
 }
+
